@@ -3,6 +3,10 @@
 DataSet: 
 The dataset is of various twitter users and their bios and recent tweets and other information.
 
+Kaggle: 
+
+https://www.kaggle.com/datasets/crowdflower/twitter-user-gender-classification
+
 Goal:
 To Build a model which can predict the gender of a user with good accuracy.
 
