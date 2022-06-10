@@ -7,6 +7,7 @@ Goal:
 To Build a model which can predict the gender of a user with good accuracy.
 
 Model tested:
+
 1.Logistic Regression
 
 2.Multinomial Naive Bayes
